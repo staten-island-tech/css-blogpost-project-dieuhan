@@ -1,5 +1,40 @@
-.head{
+.head {
     text-align: center;
-    margin-top: 20px;
-    margin-bottom: 5px;
+    margin-top: 30px;
+    margin-bottom: -20;
+}
+
+.head1 {
+    text-align: center;
+    margin-top: 70px;
+}
+.div1{
+    text-align: center;
+}
+.image1{
+    width: 600;
+    height: 400;
+    margin-bottom: 10px;
+}
+
+.headpz {
+    text-align: center;
+}
+.head2{
+    text-align: center;
+    margin-top: 85px;
+}
+
+.image2{
+    width: 530;
+    height: 500;
+    margin-bottom: 10px;
+}
+
+.div2{
+    text-align: center;
+}
+
+.headtt{
+    text-align: center;
 }
