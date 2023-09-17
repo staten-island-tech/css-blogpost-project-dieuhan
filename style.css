@@ -1,3 +1,7 @@
+body{
+    font-family: 'PT Sans', sans-serif;
+}
+
 .head {
     text-align: center;
     margin-top: 30px;
@@ -7,14 +11,16 @@
 .head1 {
     text-align: center;
     margin-top: 70px;
+
 }
 .div1{
     text-align: center;
 }
 .image1{
-    width: 600;
+    width: 620;
     height: 400;
     margin-bottom: 10px;
+    border: 10px solid green;
 }
 
 .headpz {
@@ -27,8 +33,9 @@
 
 .image2{
     width: 530;
-    height: 500;
+    height: 520;
     margin-bottom: 10px;
+    border: 10px solid blue;
 }
 
 .div2{
@@ -37,4 +44,26 @@
 
 .headtt{
     text-align: center;
+    
+}
+
+.head3{
+    text-align: center;
+    margin-top: 85px;
+}
+
+.image3{
+    width: 390;
+    height: 520;
+    margin-bottom: 10px;
+    border: 10px solid rgb(41, 81, 52);
+}
+
+.div3{
+    text-align: center;
+}
+
+.headw{
+    text-align: center;
+    margin-bottom: 80px;
 }
